@@ -26,7 +26,6 @@ int findUnique(int *arr, int n)
         }
     }
     return element;
-    
 }
 
 int main() {
