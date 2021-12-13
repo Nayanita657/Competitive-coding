@@ -32,7 +32,6 @@ int main()
     {
         cin>>arr[i];
     }
-    
     cout<<"Enter K value-\n";
     int K;
     cin>>K;
