@@ -67,6 +67,5 @@ int main()
 {
     Node *head = Takeinput();
     print(head);
-    
     return 0;
 }
