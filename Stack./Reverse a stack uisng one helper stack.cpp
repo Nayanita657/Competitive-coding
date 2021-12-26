@@ -33,7 +33,6 @@ void reverseStack(stack<int> &stack1, stack<int> &stack2)
     }
 
     
-    
 }
 
 int main() {
