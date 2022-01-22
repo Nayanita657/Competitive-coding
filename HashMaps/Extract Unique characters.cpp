@@ -3,6 +3,7 @@
 #include <string>
 using namespace std;
 
+
 string uniqueChar(string str) 
 {
 	string output;
