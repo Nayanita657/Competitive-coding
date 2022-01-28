@@ -20,7 +20,6 @@ class TrieNode {
         isTerminal = false;
     }
 };
-
 class Trie {
     TrieNode *root;
 
