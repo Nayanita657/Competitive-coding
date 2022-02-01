@@ -37,8 +37,7 @@ int countStepsToOne(int n)
         ans[i] = -1;
     }
     return helper(n,ans);
-    
-}
+ }
 
 int main()
 {
