@@ -21,7 +21,6 @@ int helper(int **arr,int current_row, int current_column, int final_row, int fin
         return final_min_cost;
     }
 }
-
 int minCostPath(int **arr, int m, int n)
 {
 	//Write your code here
