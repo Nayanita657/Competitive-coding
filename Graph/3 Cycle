@@ -71,5 +71,5 @@ int main()
     cout<<result/6;
 }
 
-TC = O(V + E)
+TC = O(V ^ 3)
 SC = O(V ^ 2)
